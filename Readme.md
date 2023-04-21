@@ -38,9 +38,7 @@ python main.py
 - The translated news will be saved as `Translated.pdf`.
 
 ## 4. Result
-
-Demo pdf
-![](./Translated.pdf) 
+Demo pdf [here](./Translated.pdf)   
 ---
 
 If you have any questions, please contact me via email: [Duypnt23@gmail.com]
