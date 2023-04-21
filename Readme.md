@@ -40,7 +40,7 @@ python main.py
 ## 4. Result
 
 Demo pdf
-![Demo](./Translated.pdf)
+![](./Translated.pdf) 
 ---
 
 If you have any questions, please contact me via email: [Duypnt23@gmail.com]
