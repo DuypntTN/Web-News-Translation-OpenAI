@@ -24,4 +24,4 @@ python main.py
 - The link default web news is [VN Express](https://vnexpress.net/) or you can change it in line `129` in the file `main.py`.
 - The translated news will be saved as `Translated.pdf`.
 ----
-If you have any questions, please contact me via email: [Duypnt23@gmail.com](mailto: duypnt23@gmail.com)
+If you have any questions, please contact me via email: [Duypnt23@gmail.com]
