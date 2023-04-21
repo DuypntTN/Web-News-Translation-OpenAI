@@ -126,7 +126,7 @@ def run(urls, language):
 
 def crawl_and_translate():
     print('Crawling and translating...',selected_language.get())
-    url = 'https://vnexpress.net/'
+    url = 'https://vnexpress.net/' # Or any other website
     language = selected_language.get()
     npages = int(npages_entry.get())
     run(get_links(url, npages), language)
