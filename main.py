@@ -59,7 +59,7 @@ def clean_content(content):
 
 
 def translate_content(content, language):
-    openai.api_key = "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"
+    openai.api_key = "YOUR_API_KEY"
     max_length = 1024
     # Each content if has over 1024 tokens, we will split it into multiple chunks
     content_chunks = [content[i:i+max_length]

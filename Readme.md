@@ -15,6 +15,8 @@ or
 conda install --file requirements.txt
 ```
 ## 3. Usage
+- First, you need to create an account on [OpenAI](https://beta.openai.com/).
+- Then, create an API key and paste it into the file `main.py` in line 62. `openai.api_key =[your API key]`
 - Run the file `main.py`:
 ```
 python main.py
